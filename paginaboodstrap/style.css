@@ -1,0 +1,43 @@
+.navbar{
+    background-color:rgb(30, 168, 28) ;
+    padding: auto;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.nav-item{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav-item:hover{
+    box-shadow: 2px 2px 2px black;
+    border-radius: 50px ;  
+}
+#quemsomos{
+    background-color:rgb(128, 179, 231); 
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.margin{
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#parceiros{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(89, 124, 213);
+    color: white;
+}
+.img{
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px 3px black;
+}
+.img:hover {
+    transform: scaleX(-1);
+}
+p{
+    font-size: 20px;
+}
+footer{
+    background-color: black;
+    color: white;
+}
